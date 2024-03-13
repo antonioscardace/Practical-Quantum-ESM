@@ -1,4 +1,4 @@
-# Quantum Exact String Matching
+# Quantum Exact String Matching (ESM)
 
 The provided Jupyter Notebook tutorial contains a practical implementation of an initial Quantum Exact String Matching algorithm in Qiskit, proposed in our [paper]() for the [QUASAR'24 Workshop](https://sites.google.com/view/quasar24).
 
@@ -8,7 +8,7 @@ The provided Jupyter Notebook tutorial contains a practical implementation of an
 
 ## Overview
 
-In our paper, we provide the implementation of a quantum exact string-matching algorithm. Its essence lies in identifying an occurrence of a specified pattern $x$ of length $m$, within a text $y$ of length $n$ $\geq$ $m$, where both sequences are composed of characters taken from an alphabet $\Sigma$ of size $\sigma$. Our article presents an initial practical implementation of a quantum circuit tailored to address the exact string-matching problem, particularly focusing on **binary strings**.
+In our paper, we provide the implementation of a quantum ESM algorithm. Its essence lies in identifying an occurrence of a specified pattern $x$ of length $m$, within a text $y$ of length $n$ $\geq$ $m$, where both sequences are composed of characters taken from an alphabet $\Sigma$ of size $\sigma$. Our article presents an initial practical implementation of a quantum circuit tailored to address the ESM problem, particularly focusing on **binary strings**.
 
 A classical **naïve** approach exhibits a worst-case time complexity of $\mathcal{O}(m(n-m + 1))$, contrasting with the capability of quantum computation to achieve a $\tilde{O}(\sqrt{n})$ complexity using **Grover's search**.
 
