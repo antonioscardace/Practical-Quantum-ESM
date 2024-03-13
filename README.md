@@ -1,4 +1,4 @@
-# Quantum Exact String Matching (ESM)
+# Quantum Exact String Matching
 
 The provided Jupyter Notebook tutorial contains a practical implementation of an initial Quantum Exact String Matching algorithm in Qiskit, proposed in our [paper]() for the [QUASAR'24 Workshop](https://sites.google.com/view/quasar24).
 
