@@ -18,12 +18,13 @@ We use the **Qiskit** open-source toolkit developed by **IBM**. While current re
 
 Please, reference this publication if you find this code useful:
 
-```
-@inproceedings{...,
-    author = {...},
-    booktitle = {...},
-    year = {...},
-    title = {...}
+```BibTeX
+@inproceedings{10.1145/3660318.3660327,
+    author = {Marino, Francesco Pio and Faro, Simone and Scardace, Antonio},
+    title = {Practical Implementation of a Quantum String Matching Algorithm},
+    year = {2024},
+    publisher = {Association for Computing Machinery},
+    url = {https://doi.org/10.1145/3660318.3660327}
 }
 ```
 
