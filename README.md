@@ -1,6 +1,6 @@
 # Quantum Exact String Matching
 
-The provided Jupyter Notebook tutorial contains a practical implementation of an initial Quantum Exact String Matching algorithm, proposed in our [paper]() for the [QUASAR'24 Workshop](https://sites.google.com/view/quasar24).
+The provided Jupyter Notebook tutorial contains a practical implementation of an initial Quantum Exact String Matching algorithm, proposed in our [paper](https://doi.org/10.1145/3660318.3660327) for the [QUASAR'24 Workshop](https://sites.google.com/view/quasar24).
 
 [![License](https://img.shields.io/github/license/antonioscardace/Practical-Quantum-ESM.svg)](https://github.com/antonioscardace/Practical-Quantum-ESM/blob/master/LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/antonioscardace/Practical-Quantum-ESM.svg)](https://github.com/antonioscardace/Practical-Quantum-ESM/issues)
