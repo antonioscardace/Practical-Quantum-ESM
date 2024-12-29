@@ -1,6 +1,6 @@
 # Quantum Exact String Matching
 
-The provided Jupyter Notebook tutorial contains a practical implementation of an initial Quantum Exact String Matching algorithm, proposed in our [paper](https://doi.org/10.1145/3660318.3660327) for the [QUASAR'24 Workshop](https://sites.google.com/view/quasar24).
+The provided notebook tutorial contains a practical implementation of an initial Quantum Exact String Matching algorithm, proposed in our [paper](https://doi.org/10.1145/3660318.3660327) for the [QUASAR 24 Workshop](https://sites.google.com/view/quasar24), part of the [ACM HDPC](https://dl.acm.org/doi/10.1145/3660318.3660327) conference.
 
 [![License](https://img.shields.io/github/license/antonioscardace/Practical-Quantum-ESM.svg)](https://github.com/antonioscardace/Practical-Quantum-ESM/blob/master/LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/antonioscardace/Practical-Quantum-ESM.svg)](https://github.com/antonioscardace/Practical-Quantum-ESM/issues)
@@ -14,7 +14,7 @@ A classical **naïve** approach exhibits a worst-case time complexity of $\mathc
 
 We use the **Qiskit** open-source toolkit developed by **IBM**. While current real-world hardware often struggles to produce valid results due to **decoherence** and **quantum errors**, this study presents experimental results from a circuit **simulation** on classical hardware, validating the proposed implementation's efficacy.
 
-## Reference
+## Citing
 
 Please, reference this publication if you find this code useful:
 
