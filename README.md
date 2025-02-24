@@ -8,7 +8,7 @@ The provided notebook tutorial contains a practical implementation of an initial
 
 ## Overview
 
-In our paper, we provide the implementation of a quantum ESM algorithm. Its essence lies in identifying an occurrence of a specified pattern $x$ of length $m$, within a text $y$ of length $n$ $\geq$ $m$, where both sequences are composed of characters taken from an alphabet $\Sigma$ of size $\sigma$. Our article presents an initial practical implementation of a quantum circuit tailored to address the ESM problem, particularly focusing on **binary strings**.
+In our paper, we present the implementation of a quantum ESM algorithm, which identifies occurrences of a specified pattern $x$ of length $m$, within a text $y$ of length $n$ $\geq$ $m$, where both sequences are composed of characters taken from an alphabet $\Sigma$ of size $\sigma$. Our article presents an initial practical implementation of a quantum circuit tailored to address the ESM problem, particularly focusing on **binary strings**.
 
 A classical **naïve** approach exhibits a worst-case time complexity of $\mathcal{O}(mn)$, contrasting with the capability of quantum computation to achieve a $\tilde{O}(\sqrt{n})$ complexity using **Grover's search**.
 
