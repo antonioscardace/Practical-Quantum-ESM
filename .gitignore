@@ -1,6 +1,5 @@
 .vscode/
 .DS_Store
-verbose.ipynb
 
 __pycache__/
 .ipynb_checkpoints

@@ -1,11 +1,5 @@
 *.md text eol=lf
-*.csv text eol=lf
 *.ipynb text eol=lf
 
-*.png binary
-*.jpg binary
-*.jpeg binary
-
 *.ipynb filter=nbstripout
-*.zpln filter=nbstripout
 *.ipynb diff=ipynb
