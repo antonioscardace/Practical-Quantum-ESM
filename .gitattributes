@@ -1,0 +1,5 @@
+*.md text eol=lf
+*.ipynb text eol=lf
+
+*.ipynb filter=nbstripout
+*.ipynb diff=ipynb
